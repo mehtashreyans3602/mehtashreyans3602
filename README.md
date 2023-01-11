@@ -32,7 +32,7 @@ I am a CSE Student.I have worked on developing Neural Network Programs, ML Proje
 
 
 **📫 How to reach me**
-- viditmehta@outlook.com
+- mehtashreyans3602@gmail.com
 
 
 ## Github Stats
