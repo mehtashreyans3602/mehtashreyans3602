@@ -38,5 +38,5 @@ I am a CSE Student.I have worked on developing Neural Network Programs, ML Proje
 ## Github Stats
 
 <img 
-   src="https://github-readme-stats.vercel.app/api?username=mehtashreyans&show_icons=true&theme=tokyonight" 
+   src="https://github-readme-stats.vercel.app/api?username=mehtashreyans3602&show_icons=true&theme=tokyonight" 
 />
