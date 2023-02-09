@@ -13,6 +13,7 @@ I am a CSE Student.I have worked on developing Neural Network Programs, ML Proje
 <img align="right" height="250" width="375" alt="" src="https://github.com/mehtashreyans3602/mehtashreyans3602/blob/main/coder.gif" />
 
 **🔭 My Recent Work:**
+- Web app containing games made using Django, SQLite, Javascript, HTML and CSS made in HackThisFall6.0 
 - Python based web apps using Django,Flask.
 - Web apps using Node.JS,REACT.js 
 - Machine Learning NLP Project done for HackSvit and DUHacks 
