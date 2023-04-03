@@ -10,7 +10,7 @@
 I am a CSE Student.I have worked on developing Neural Network Programs, ML Projects, Web Development and Android application development. 
 
 
-<img align="right" height="250" width="375" alt="" src="https://github.com/mehtashreyans3602/mehtashreyans3602/blob/main/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://camo.githubusercontent.com/54d2bf3d3abc87d2833e7622cba8d119826ab8b2c71fce688348a8e4ac4978bc/68747470733a2f2f636f6e6e6563742e69676e617469757a2e636f6d2f68732d66732f68756266732f4149253230616e64253230446565702532304c6561726e696e672e6769663f77696474683d31353030266e616d653d4149253230616e64253230446565702532304c6561726e696e672e676966" />
 
 **🔭 My Recent Work:**
 - Web app containing games made using Django, SQLite, Javascript, HTML and CSS made in HackThisFall6.0 
