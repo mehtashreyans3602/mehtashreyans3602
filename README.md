@@ -31,8 +31,8 @@ I am a CSE Student.I have worked on developing Neural Network Programs, ML Proje
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-787CB4?&style=for-the-badge&logo=php&logoColor=black)
-![REACT](https://img.shields.io/badge/REACT-0f1ef2?&style=for-the-badge&logo=react&logoColor=black)
-![NEXT](https://img.shields.io/badge/NEXT-239120?&style=for-the-badge&logo=next3&logoColor=white)
+![REACT.js](https://img.shields.io/badge/REACT-0f1ef2?&style=for-the-badge&logo=react&logoColor=black)
+![NEXT.js](https://img.shields.io/badge/NEXT-239120?&style=for-the-badge&logo=nextjs3&logoColor=white)
 
 
 
