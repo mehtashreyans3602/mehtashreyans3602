@@ -29,7 +29,7 @@ I am a CSE Student.I have worked on developing Neural Network Programs, ML Proje
 ![TS Badge](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-#f09a07?style=for-the-badge&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-f09a07?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-787CB4?&style=for-the-badge&logo=php&logoColor=white)
 ![REACT.js](https://img.shields.io/badge/REACT.js-0f1ef2?&style=for-the-badge&logo=react&logoColor=white)
