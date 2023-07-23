@@ -10,7 +10,7 @@
 I am a CSE Student.I have worked on developing Neural Network Programs, ML Projects, Web Development and Android application development. 
 
 
-<img align="right" height="250" width="375" alt="" src="https://github.com/mehtashreyans3602/mehtashreyans3602/blob/main/coding.svg" />
+<img align="right" height="250" width="375" alt="" src="https://github.com/mehtashreyans3602/mehtashreyans3602/blob/main/undraw_code_thinking_re_gka2.svg" />
 
 **🔭 My Recent Work:**
 - A Blockchain Crowd Funding Application named 'DreamVault' made using Next.js, Node.js and Solidity which utilizes 5ireChain.  
